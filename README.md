@@ -8,15 +8,13 @@ This repository contains the lab experiments and implementations related to **Re
 - Analyze fairness, transparency, and accountability in AI systems
 - Perform experiments related to AI ethics and model evaluation
 
-## 📂 Contents
-This repository includes programs such as:
+## 📊 Responsible AI Concepts Covered
 
-- Decision Tree Algorithm
-- Candidate Elimination Algorithm
-- Find-S Algorithm
-- Multilayer Perceptron with Backpropagation
-- Data preprocessing and pipeline examples
-- Model evaluation experiments
+- **Fairness** – Ensuring AI decisions are unbiased
+- **Transparency** – Understanding how AI models make decisions
+- **Explainability** – Interpreting model predictions
+- **Accountability** – Responsible use of AI systems
+- **Ethical AI** – Building trustworthy AI systems
 
 ## 🛠 Technologies Used
 - Python
@@ -28,5 +26,3 @@ This repository includes programs such as:
 1. Clone the repository
 2. Install required libraries
 3. Run the Python scripts
-
-Example:
